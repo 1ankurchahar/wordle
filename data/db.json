@@ -1,0 +1,41 @@
+{
+    "solutions": [
+        { "word": "hello", "id": 1 },
+        { "word": "spade", "id": 2 },
+        { "word": "pools", "id": 3 },
+        { "word": "drive", "id": 4 },
+        { "word": "relax", "id": 5 },
+        { "word": "times", "id": 6 },
+        { "word": "pours", "id": 7 },
+        { "word": "phone", "id": 8 },
+        { "word": "coins", "id": 9 }
+    ],
+    "letters": [
+        { "key": "a" },
+        { "key": "b" },
+        { "key": "c" },
+        { "key": "d" },
+        { "key": "e" },
+        { "key": "f" },
+        { "key": "g" },
+        { "key": "h" },
+        { "key": "i" },
+        { "key": "j" },
+        { "key": "k" },
+        { "key": "l" },
+        { "key": "m" },
+        { "key": "n" },
+        { "key": "o" },
+        { "key": "p" },
+        { "key": "q" },
+        { "key": "r" },
+        { "key": "s" },
+        { "key": "t" },
+        { "key": "u" },
+        { "key": "v" },
+        { "key": "w" },
+        { "key": "x" },
+        { "key": "y" },
+        { "key": "z" }
+    ]
+}
